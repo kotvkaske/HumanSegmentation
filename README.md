@@ -1,3 +1,2 @@
 # MILInternship
-Тестовое задание для MILTEAM
-Ход решения описан в baseline.ipynb
+Тестовое задание для MILTEAM, ход решения описан в baseline.ipynb
